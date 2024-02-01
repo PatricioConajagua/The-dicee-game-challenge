@@ -42,13 +42,16 @@ img {
 
 .button-container {
     display: block;
-    align-items: center;
+    text-align: center;
+    margin: 30px;
 }
 
 /* Estilo del botón de refrescar */
 button {
     font-size: 1.5rem;
     padding: 10px 20px;
+    border-radius: 2em;
+    margin: 30px;
 }
 /* Estilo del pie de página */
 
