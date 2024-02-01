@@ -1,0 +1,60 @@
+/* Estilo del contenedor principal */
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+/* Estilo de las secciones de los dados */
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+/* Estilo del cuerpo de la página */
+body {
+    background-color: #717a8e;
+}
+
+/* Estilo del título principal */
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+/* Estilo de los párrafos */
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2.5px 0 #232931;
+    
+}
+
+
+/* Estilo de las imágenes */
+img {
+    width: 80%;
+}
+
+.button-container {
+    display: block;
+    align-items: center;
+}
+
+/* Estilo del botón de refrescar */
+button {
+    font-size: 1.5rem;
+    padding: 10px 20px;
+}
+/* Estilo del pie de página */
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
