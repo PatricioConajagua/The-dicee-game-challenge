@@ -31,14 +31,15 @@ p {
     color: #4ECCA3;
     font-family: 'Lobster', cursive;
     text-shadow: 2.5px 0 #232931;
+    
 }
+
 
 /* Estilo de las imágenes */
 img {
     width: 80%;
 }
 
-/* Estilo del contenedor boton*/
 .button-container {
     display: block;
     text-align: center;
@@ -52,8 +53,8 @@ button {
     border-radius: 2em;
     margin: 30px;
 }
-
 /* Estilo del pie de página */
+
 footer {
     margin-top: 5%;
     color: #EEEEEE;
